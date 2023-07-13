@@ -2,21 +2,24 @@
 ![插件版本](https://img.shields.io/badge/plugin-v1.5.4-blue)
 ![开源协议](https://img.shields.io/github/license/crrashh1542/moku-linkmanager)  
 一个易于使用、界面简约、可定时检查友链及图标可用性、可按设定判断并删除友链或者发送通知的 WordPress 插件。  
+  
 ⚠️ 注意：由于本项目涉及操作数据库，可能使坏蛋绕过鉴权而直接访问甚至操作数据库；即使 v2 已经做了较多修复尝试，仍无法保证其 100% 的安全性。故为各位隐私安全考虑，本项目**短期内暂无计划开源**。
 
 ## 插件特性
-🚧 说在前面：本插件从来不意在疏远与博友的关系，仅为减小博主们的查询链接有效性的工作量，同时督促各位做一名**合格的站长**。
+🚧 说在前面：本插件从来不意在疏远与博友的关系，仅为减小博主们的查询链接有效性的工作量，同时督促各位做一名**合格的站长**。  
 * 标准的一套 setter 和 getter 来操作友链列表的数据。
 * 前（Vue）后（PHP）端分离，使用 json 以纯 API 式进行数据交互。
-* 由于数据库在服务端，插件必须依赖于 WordPress 框架。
+* 由于数据库在服务端，插件必须依赖于 WordPress 和 MySQL 。
 * 可自选链接/图片失效的时间，以及直接删除或者邮件通知的违约措施。
 
 ## 前端
-![前端版本](https://img.shields.io/badge/version-2.0.8-blue) 于 2023/07/12  
+![前端版本](https://img.shields.io/badge/version-2.1.1-blue) 于 2023/07/12  
+  
 访客端：去掉 Roboto 和默认字体、字色限制的定制化 MDUI。  
 后台：Element Plus。
 
 ## 后端
-![后端版本](https://img.shields.io/badge/version-2.0.0-blue) 于 2023/07/13  
+![后端版本](https://img.shields.io/badge/version-2.0.7-blue) 于 2023/07/13  
+  
 框架：无，全部手搓。  
-需要：PHP 6.0+ 以及 MySQL 。
+需要：WordPress ？、PHP 6.0+ 以及 MySQL 。
