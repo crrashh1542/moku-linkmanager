@@ -13,13 +13,13 @@
 * 可自选链接/图片失效的时间，以及直接删除或者邮件通知的违约措施。
 
 ## 前端
-![前端版本](https://img.shields.io/badge/version-20230712-blue)  
+![前端版本](https://img.shields.io/badge/version-v1.4.0.230712-blue)  
   
-访客端：去掉 Roboto 和默认字体、字色限制的定制化 MDUI。  
-后台：Element Plus。
+访客端：去掉 Roboto 和默认字体、字色限制的定制化 [MDUI](https://mdui.org)。  
+后台：[Element Plus](https://element-plus.org)。
 
 ## 后端
-![后端版本](https://img.shields.io/badge/version-20230723-blue)   
+![后端版本](https://img.shields.io/badge/version-v2.0.3.230723-blue)   
   
 框架：无，全部手搓。  
-需要：WordPress ？、PHP 6.0+ 以及 MySQL 。
+需要：WordPress ？、PHP 8.0+ 以及 MySQL 5.4+。
