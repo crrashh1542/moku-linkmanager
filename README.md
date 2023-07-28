@@ -19,7 +19,7 @@
 后台：[Element Plus](https://element-plus.org)。
 
 ## 后端
-![后端版本](https://img.shields.io/badge/version-v2.0.8.230727-blue)   
+![后端版本](https://img.shields.io/badge/version-v2.2.0.230728-blue)   
   
 框架：无，全部手搓。  
 需要：WordPress ？、PHP 8.0+ 以及 MySQL 5.4+。
