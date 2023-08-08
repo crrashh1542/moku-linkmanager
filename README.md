@@ -1,5 +1,5 @@
 # Moku 友链管理器
-![插件版本](https://img.shields.io/badge/plugin-v2.3.2-blue)
+![插件版本](https://img.shields.io/badge/plugin-v2.3.3-blue)
 ![开源协议](https://img.shields.io/github/license/crrashh1542/moku-linkmanager)  
 一个易于使用、界面简约、可定时检查友链及图标可用性、可按设定判断并删除友链或者发送通知的 WordPress 插件。  
   
@@ -19,7 +19,7 @@
 后台：[Element Plus](https://element-plus.org)。
 
 ## 后端
-![后端版本](https://img.shields.io/badge/version-v2.3.2.230806-blue)   
+![后端版本](https://img.shields.io/badge/version-v2.3.3.230808-blue)   
 关于版本：插件版本与后端版本保持一致，后端的变更升级可能会影响前端版本，前端版本自身（如框架或 UI 优化的变更）不影响后端版本。
   
 框架：无，全部手搓。  
