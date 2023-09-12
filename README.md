@@ -13,12 +13,14 @@
 * 可自选链接/图片失效的时间，以及直接删除或者邮件通知的违约措施。
 
 ## 前端
-![前端版本](https://img.shields.io/badge/version-v1.4.1.230801-blue)  
+![前端稳定版本](https://img.shields.io/badge/stable-v1.4.1.230801-blue)
+![前端最新版本](https://img.shields.io/badge/latest-v1.4.2--rc.0.230912-orange)  
 访客端：去掉 Roboto 和默认字体、字色限制的定制化 [MDUI](https://mdui.org)。  
 后台：[Element Plus](https://element-plus.org)。
 
 ## 后端
-![后端版本](https://img.shields.io/badge/version-v2.3.5.230912-blue)   
+![后端稳定版本](https://img.shields.io/badge/stable-v2.3.5.230912-blue)
+![后端最新版本](https://img.shields.io/badge/latest-v2.3.6--beta.230913-orange)   
 由于本人技术水平问题且并不主攻 PHP，所以借用了很多网上无 License 的代码。在此统一表示感谢。  
 
 ## 关于
