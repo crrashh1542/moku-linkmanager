@@ -20,7 +20,7 @@
 
 ## 后端
 ![后端稳定版本](https://img.shields.io/badge/stable-v2.3.6.230919-blue)
-![后端最新版本](https://img.shields.io/badge/latest-v2.4.0--alpha.1.230924-orange)   
+![后端最新版本](https://img.shields.io/badge/latest-v2.4.0--beta.0.-orange)   
 由于本人技术水平问题且并不主攻 PHP，所以借用了很多网上无 License 的代码。在此统一表示感谢。  
 
 ## 关于
