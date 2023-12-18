@@ -8,7 +8,7 @@
 ## 插件特性
 🚧 说在前面：本插件从来不意在疏远与博友的关系，仅为减小博主们的查询链接有效性的工作量，同时督促各位做一名**合格的站长**。  
 * 标准的一套setter和getter来操作友链列表的数据。
-* 前（Vue）后（PHP）端分离，使用json以纯 API 式进行数据交互。
+* 前（Vue 3）后（PHP）端分离，使用json以纯API式进行数据交互。
 * 由于数据库在服务端，插件必须依赖于WordPress和MySQL。
 * 可自选链接/图片失效的时间，以及直接删除或者邮件通知的违约措施。
 
@@ -19,8 +19,8 @@
 后台：[Element Plus](https://element-plus.org)。
 
 ## 后端
-![后端稳定版本](https://img.shields.io/badge/stable-v2.4.0.231209-blue)
-![后端最新版本](https://img.shields.io/badge/latest-v2.4.1--beta.2.231217-orange)   
+![后端稳定版本](https://img.shields.io/badge/stable-v2.4.1.231218-blue)
+![后端最新版本](https://img.shields.io/badge/latest-v2.4.1.231218-blue)   
 由于本人技术水平问题且并不主攻PHP，所以借用了很多网上无License的代码。在此统一表示感谢。  
 
 ## 关于
